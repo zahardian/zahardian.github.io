@@ -40,42 +40,42 @@ const Header = () => {
                 >
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-html.svg"
+                      src="/images/logo-html.svg"
                       alt="html"
                       className="w-10 h-10"
                     />
                   </li>
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-css.svg"
+                      src="/images/logo-css.svg"
                       alt="css"
                       className="w-10 h-10"
                     />
                   </li>
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-js.svg"
+                      src="/images/logo-js.svg"
                       alt="javascript"
                       className="w-10 h-10"
                     />
                   </li>
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-tailwind.svg"
+                      src="/images/logo-tailwind.svg"
                       alt="tailwind"
                       className="w-9 h-9"
                     />
                   </li>
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-react.svg"
+                      src="/images/logo-react.svg"
                       alt="react"
                       className="w-9 h-9"
                     />
                   </li>
                   <li className="items-center cursor-pointer flex h-16 justify-center w-16 shadow-md shadow-indigo-800 rounded-full">
                     <img
-                      src="../src/assets/logo-git.svg"
+                      src="/images/logo-git.svg"
                       alt="git"
                       className="w-10 h-10"
                     />

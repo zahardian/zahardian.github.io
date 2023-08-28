@@ -9,7 +9,7 @@ const About = () => {
             <div className="img-side overflow-hidden xl:w-1/2">
               <img
                 className="mb-10 rounded-2xl mx-auto"
-                src="https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+                src="/images/about.jpg"
                 alt="pic-about"
               />
             </div>
